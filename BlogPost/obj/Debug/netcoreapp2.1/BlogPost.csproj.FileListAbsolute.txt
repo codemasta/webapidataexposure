@@ -1,0 +1,14 @@
+C:\Users\Compiler\source\repos\BlogPost\BlogPost\bin\Debug\netcoreapp2.1\BlogPost.deps.json
+C:\Users\Compiler\source\repos\BlogPost\BlogPost\bin\Debug\netcoreapp2.1\BlogPost.runtimeconfig.json
+C:\Users\Compiler\source\repos\BlogPost\BlogPost\bin\Debug\netcoreapp2.1\BlogPost.runtimeconfig.dev.json
+C:\Users\Compiler\source\repos\BlogPost\BlogPost\bin\Debug\netcoreapp2.1\BlogPost.dll
+C:\Users\Compiler\source\repos\BlogPost\BlogPost\bin\Debug\netcoreapp2.1\BlogPost.pdb
+C:\Users\Compiler\source\repos\BlogPost\BlogPost\obj\Debug\netcoreapp2.1\BlogPost.csprojAssemblyReference.cache
+C:\Users\Compiler\source\repos\BlogPost\BlogPost\obj\Debug\netcoreapp2.1\BlogPost.csproj.CoreCompileInputs.cache
+C:\Users\Compiler\source\repos\BlogPost\BlogPost\obj\Debug\netcoreapp2.1\BlogPost.RazorAssemblyInfo.cache
+C:\Users\Compiler\source\repos\BlogPost\BlogPost\obj\Debug\netcoreapp2.1\BlogPost.RazorAssemblyInfo.cs
+C:\Users\Compiler\source\repos\BlogPost\BlogPost\obj\Debug\netcoreapp2.1\BlogPost.AssemblyInfoInputs.cache
+C:\Users\Compiler\source\repos\BlogPost\BlogPost\obj\Debug\netcoreapp2.1\BlogPost.AssemblyInfo.cs
+C:\Users\Compiler\source\repos\BlogPost\BlogPost\obj\Debug\netcoreapp2.1\BlogPost.RazorTargetAssemblyInfo.cache
+C:\Users\Compiler\source\repos\BlogPost\BlogPost\obj\Debug\netcoreapp2.1\BlogPost.dll
+C:\Users\Compiler\source\repos\BlogPost\BlogPost\obj\Debug\netcoreapp2.1\BlogPost.pdb
